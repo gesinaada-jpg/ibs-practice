@@ -1,7 +1,7 @@
 [project]
-name = "backend"
+name = "ibs-practice"
 version = "0.1.0"
-description = "IBS practice backend"
+description = "IBS practice"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
