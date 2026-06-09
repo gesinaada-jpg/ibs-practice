@@ -38,7 +38,7 @@
 
 ### API
 
-Устанавите [uv](https://docs.astral.sh/uv/)
+Установите [uv](https://docs.astral.sh/uv/)
 
 запускаете из src через команду
 ``` bash
